@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 New Year’s Resolutions for Becoming a Better Homeowner
-date:
+date: 2019-01-04 19:53:34
 tags:
   - Real Estate
 excerpt: >-

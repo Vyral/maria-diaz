@@ -22,9 +22,7 @@ youtube_code: qJt06U8xi4Q
 
 {% include youtube.html %}
 
-When buying a home, you’ll go through a series of emotions that might unsettle you, but they’re perfectly normal. Here’s what to expect:
-
-<br>**1. Online photos can be deceiving.** Great online photos look, well, great, but it’s better to show up at the house in person. When you’re actually there, you’ll notice details that weren’t visible in the photos (or were edited out), like marks on the walls, tears in the carpets, and so on. You’ll also get to see rooms from angles not shown in the photos. Sometimes this disparity can disappoint people (even to the point of moving to a different listing), but it’s a part of the process that you should be prepared for.
+When buying a home, you’ll go through a series of emotions that might unsettle you, but they’re perfectly normal. Here’s what to expect:<br>**1. Online photos can be deceiving.** Great online photos look, well, great, but it’s better to show up at the house in person. When you’re actually there, you’ll notice details that weren’t visible in the photos (or were edited out), like marks on the walls, tears in the carpets, and so on. You’ll also get to see rooms from angles not shown in the photos. Sometimes this disparity can disappoint people (even to the point of moving to a different listing), but it’s a part of the process that you should be prepared for.
 
 {% include pullquote.html %}
 

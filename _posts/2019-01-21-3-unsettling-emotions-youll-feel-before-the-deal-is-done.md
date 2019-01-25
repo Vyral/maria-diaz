@@ -28,6 +28,6 @@ When buying a home, you’ll go through a series of emotions that might unsettle
 
 {% include pullquote.html %}
 
-&nbsp;
-
 **2. Buying a home can feel like a never-ending slog.** As a homebuyer, you will need to be patient. You will experience a range of emotions in the pursuit of finding your perfect home, but it will be worthwhile when you finally settle in. I know there could be competition in the buying process amongst other homebuyers so you must be willing and ready to make a strong offer in order to get the house of your dreams and get your offer accepted.<br><br>**3. You might not get everything you want.** This is why I emphasize that, if a home meets all or most of your criteria, you need to be ready and able to make the strongest offer so that you don’t have to worry about any competition with other homebuyers and undoubtedly get the home you want.&nbsp;<br><br>If you’re feeling anxious about the buying process or if you have any questions, you must reach out to me. Don't let fear stop you. Take my guidance and allow me to guide the way. You'll avoid making the wrong choice or missing out on a great deal.
+
+&nbsp;

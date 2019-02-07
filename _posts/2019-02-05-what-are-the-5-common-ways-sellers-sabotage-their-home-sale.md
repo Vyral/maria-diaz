@@ -21,11 +21,13 @@ youtube_code: LgfypX3Q7GU
 
 {% include youtube.html %}
 
+Here are the five things you should avoid during a home sale:
+
 **1. Bad color schemes.** Be cautious with the color scheme you go with inside your home. Your tastes might not align with the buyer’s, effectively hurting your chances of making your home stand out to that buyer.&nbsp;
 
 **2. Too much personal taste.** The key here is to think like a buyer. When it comes time to sell, don’t overdo the personal touch to your home. Buyers may not find your arrangements appealing.&nbsp;
 
-**3. Bad odors.** From my experience, the top two odors that are a turnoff to buyers are from pets and cigarette smoke. The presence of these types of odors is often difficult to remove from the home, so hiring a professional carpet cleaner is the way to go before putting your home on the market. &nbsp; &nbsp;
+**3. Bad odors.**&nbsp;In my experience, the top two odors that are a turnoff to buyers are from pets and cigarette smoke. The presence of these types of odors is often difficult to remove from the home, so hiring a professional carpet cleaner is the way to go before putting your home on the market. &nbsp; &nbsp;
 
 **4. Inflexibility with showings.** It’s imperative that you demonstrate flexibility with scheduling when showing your home. Failing to do so often leads to missed opportunities. Imagine this: You have a motivated buyer who’s prepared to make an offer on a home, and they’d like to see yours. Instead, you fail to cater to what’s convenient for them, and as a result, lose your opportunity. To make matters worse, your home may end up sitting on the market for a long time, which causes buyers to wonder if something is wrong with it. What I found works best is allowing access to a buyer so they can walk freely through your property with the aid of a satellite lockbox.&nbsp;
 

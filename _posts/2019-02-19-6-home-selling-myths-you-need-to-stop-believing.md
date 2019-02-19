@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Home Selling Myths You Need to Stop Believing
-date:
+date: 2019-02-19 21:54:41
 tags:
   - Home Seller Tips
   - Real Estate

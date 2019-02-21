@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Home Selling Myths You Need to Stop Believing
-date: 2019-02-19 21:54:41
+date: 2019-02-19 21:54:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -12,8 +12,8 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Maria+Diaz/6+Home+Selling+Myths+You+Need+to+Stop+Believing.mp4
 pullquote: >-
   You really do need to hire a real estate professional; we know the market, the
-  area, how to attract buyers to your property, what your house is worth, and we
-  can help you sell it for the most money possible.
+  area, how to attract buyers to your property and what your house is worth, and
+  we can help you sell it for the most money possible.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -25,7 +25,7 @@ youtube_code: u8UlmR5QhIo
 
 Knowing fact from fiction in real estate is critical to a successful home sale. Here are six common, but potentially harmful, myths about home selling that you need to stop believing at once if you want your success to be assured:
 
-**1. You can sell your home by yourself.** You really do need to hire a real estate professional; we know the market, the area, how to attract buyers to your property, what your house is worth, and we can help you sell it for the most money possible.
+**1. You can sell your home by yourself.** You really do need to hire a real estate professional; we know the market, the area, how to attract buyers to your property and what your house is worth, and we can help you sell it for the most money possible.
 
 **2. You know better than experts about the value of your home.** A lot of the time, I find myself speaking to sellers who are attached to the property they’ve invested their money and time into. Because of this, they sometimes overprice the home. You need to price a home correctly in order to sell; a home that stagnates on the market usually sells for less.
 

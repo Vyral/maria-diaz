@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2-19-6-myths-yt.jpg
-youtube_code: u8UlmR5QhIo
+youtube_code: Hw3iZKyhOJk
 ---
 
 {% include youtube.html %}
@@ -29,7 +29,7 @@ Knowing fact from fiction in real estate is critical to a successful home sale. 
 
 **2. You know better than experts about the value of your home.** A lot of the time, I find myself speaking to sellers who are attached to the property they’ve invested their money and time into. Because of this, they sometimes overprice the home. You need to price a home correctly in order to sell; a home that stagnates on the market usually sells for less.
 
-**3. It’s fine to sell your home as-is.** That’s just incorrect: If you want to net top dollar for your home and sell it quickly, you have to care about your property and how it looks. You’ll need to remove all clutter, deep clean it, and make certain updates. After all, if it’s going to put more money in &nbsp;your pocket, why not do it?
+**3. It’s fine to sell your home as-is.** That’s just incorrect: If you want to net top dollar for your home and sell it quickly, you have to care about your property and how it looks. You’ll need to remove all clutter, deep clean it, and make certain updates. After all, if it’s going to put more money in  your pocket, why not do it?
 
 {% include pullquote.html %}
 

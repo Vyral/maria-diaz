@@ -29,7 +29,7 @@ youtube_code: nf7Y0vRk22g
 
 {% include pullquote.html %}
 
-**4. You will hate the time pressure.** A lot of spring buyers have a deadline that they need to meet. You don’t want to take the chance and miss any opportunities to buy a home in this market.
+**4. You will hate the time-related pressure.** A lot of spring buyers have a deadline that they need to meet. You don’t want to take the chance and miss any opportunities to buy a home in this market.
 
 **5. You’ll love the warmer weather.** It’s enjoyable to get out and go look at homes with this weather, especially since there are so many on the market.
 

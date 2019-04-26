@@ -21,9 +21,9 @@ youtube_code: 9zESwn_CmLw
 
 {% include youtube.html %}
 
-As a buyer, the final walk-through of your soon-to-be home is an important part of the home buying process, and there are a few tips you need to remember to make the most out of it. 
+As a buyer, the final walk-through of your soon-to-be home is an important part of the home buying process, and there are a few tips you need to remember to make the most of it.&nbsp;
 
-Before the final walk-through, though, **it’s very important that you order a home inspection.** You can walk through a home and fall in love with it, but if you’re not a professional home inspector, what you don’t see might cost you a lot of money down the road. 
+Before the final walk-through, though, **it’s very important that you order a home inspection.** You can walk through a home and fall in love with it, but if you’re not a professional home inspector, what you don’t see might cost you a lot of money down the road.&nbsp;
 
 Now, **here are my four tips that will help you get the most out of your final walk-through:**
 
@@ -31,10 +31,10 @@ Now, **here are my four tips that will help you get the most out of your final w
 
 {% include pullquote.html %}
 
-2\. Use your phone to plug into the outlets to see if they work properly. 
+2\. Use your phone to plug into the outlets to see if they work properly.&nbsp;
 
-3\. Make sure there are no leftover items still in the house (TVs, furniture, etc.). If there are, tell the seller that they need to be removed. 
+3\. Make sure there are no leftover items still in the house (TVs, furniture, etc.). If there are, tell the seller that they need to be removed.&nbsp;
 
-4\. Be emotionally prepared for a surprise. When homes are on the market, they’re usually staged and turnkey. Once they’re under contract and the seller has moved everything out before closing, though, they don’t look the same, so be prepared for that. 
+4\. Be emotionally prepared for a surprise. When homes are on the market, they’re usually staged and turnkey. Once they’re under contract and the seller has moved everything out before closing, though, they don’t look the same, so be prepared for that.&nbsp;
 
 If you’d like to know more about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to help you.

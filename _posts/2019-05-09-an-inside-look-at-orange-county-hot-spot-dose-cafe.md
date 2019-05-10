@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Inside Look at Orange County Hot Spot Dose Cafe
-date: 2019-05-09 17:16:22
+date: 2019-05-09 17:16:00
 tags:
 excerpt: >-
   Whether it’s sandwiches, salads, coffee, or dessert, there’s no shortage of
@@ -26,7 +26,7 @@ According to Rima, the decision to open her cafe in Anaheim Plaza was an easy on
 
 **The idea for open Dose Cafe was hatched out of Rima’s longtime love of coffee and baking.** As a self-described coffee connoisseur, she couldn’t wait to open a cafe where both she could serve both. The rest is history as Dose Cafe has been open now for a little less than four years now. &nbsp;&nbsp;
 
-Crack open one of Dose Cafe’s menus, and you’ll find seven different sandwiches, 8 different salads, and everything from cheesecakes to macaroons to pastries in the dessert column. Now that the weather is heating up, you can enjoy their range of refreshments that include cucumber lemonade, smoothies, flavored lattes, shaved ice, and so much more.&nbsp;
+Crack open one of Dose Cafe’s menus, and you’ll find seven different sandwiches, eight different salads, and everything from cheesecakes to macaroons to pastries in the dessert column. Now that the weather is heating up, you can enjoy their range of refreshments that include cucumber lemonade, smoothies, flavored lattes, shaved ice, and so much more.&nbsp;
 
 For those who’ve never stopped in and are curious what food selection they should try, Rima recommends either the grilled chicken panini served on Italian Ciabatta bread or the turkey, bacon, and cheese, which is served on freshly baked croissant bread.&nbsp;
 

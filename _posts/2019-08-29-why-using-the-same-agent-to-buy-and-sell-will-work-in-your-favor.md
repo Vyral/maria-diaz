@@ -29,6 +29,6 @@ For one thing, **you’ve already built up a relationship and trust with them.**
 
 They’ll also have pre-established knowledge of your profile and the time frames you want to work within—what you qualify for, when you need to move, when you need to sell, etc. This particular agent will have an intimate awareness of your plans and goals that a new agent simply won’t have.&nbsp;
 
-I strive to always go the extra mile for my clients no matter what their needs, and I especially appreciate it when my clients place their trust in me to help them with both sides of the transaction. **Help with closing costs, home warranties, and negotiations for repairs are just a few of the services my clients can expect from me.** &nbsp;
+I strive to always go the extra mile for my clients no matter what their needs are, and I especially appreciate it when my clients place their trust in me to help them with both sides of the transaction. **Help with closing costs, home warranties, and negotiations for repairs are just a few of the services my clients can expect from me. &nbsp; &nbsp;**
 
 If you have any further questions or there’s a topic you’d like to hear me cover in a future video, please give me a call at 951-591-0413 or email me at MariaDiaz@RealEstateServices.com. I look forward to hearing from you soon\!

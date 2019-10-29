@@ -28,7 +28,7 @@ To improve your home’s value before listing it, you may need to make your own 
 
 Next, **price your home competitively.** Us agents prefer to list homes at their market value, but we can also have your home sell above asking price, so again, listen to what your agent tells you.&nbsp;
 
-To create traction and bring in buyers, **you also need to show your home well.** How you show it depends on what type of home you have and what kind of community you live in. You may be able to show it as is; you may need to make some minor cosmetic touch ups (as I mentioned above).&nbsp;
+To create traction and bring in buyers, **you also need to show your home well.** How you show it depends on what type of home you have and what kind of community you live in. You may be able to show it as is; you may need to make some minor cosmetic touch-ups (as I mentioned above).&nbsp;
 
 In any case, don’t go overboard and spend money you don’t need to. A lot of buyers make the mistake of upgrading their home according to their own tastes instead of what buyers might like. To prevent this from happening, look at the other listed homes in the area and see what they offer. How you show your house will determine the quality of the buyers you attract. You want qualified buyers who won’t waste your time or disrupt your moving schedule.
 
